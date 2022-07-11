@@ -1,6 +1,6 @@
 # discord-rickroll
 
-when you send the usual rickroll link "https://www.youtube.com/watch?v=dQw4w9WgXcQ" discord crawls it and gets the text inside of the meta tags (the title, description and image ones) and the meta tags on that url make it extremely obvious that its a rickroll 
+when you send the usual rickroll link "https://www.youtube.com/watch?v=dQw4w9WgXcQ" discord crawls it and gets the text inside of the meta tags (the title, description and image ones) and the meta tags on that page make it extremely obvious that its a rickroll 
 
 ## however
 you can make your own page with your own meta tags that make it appear as if the webpage serves another purpose
